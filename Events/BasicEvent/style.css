@@ -1,0 +1,8 @@
+#newDiv1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(141, 160, 178);
+    color: white;
+    border: 1px solid black;
+    margin: 2px;
+}
